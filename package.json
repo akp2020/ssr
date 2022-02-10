@@ -13,7 +13,7 @@
     "ignore-styles": "^5.0.1",
     "javascript-time-ago": "^2.0.7",
     "node-fetch": "^2.6.0",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
